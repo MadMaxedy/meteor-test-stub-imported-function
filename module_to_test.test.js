@@ -1,8 +1,3 @@
-/**********************************************************
- * BizzStream - .js
- * Copyright (c) 2015-2016 Maxedy BV. All rights reserved.
- * Written By: bramnieuwenhuize
- **********************************************************/
 import {chai} from 'meteor/practicalmeteor:chai'
 import sinon from 'sinon'
 
