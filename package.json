@@ -1,0 +1,11 @@
+{
+  "name": "exported_function_unit_test",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "sinon": "^1.17.4"
+  }
+}
